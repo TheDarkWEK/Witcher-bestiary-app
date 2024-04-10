@@ -1,4 +1,4 @@
-package com.example.thewitcher3bestiary.ui.home;
+package com.example.thewitcher3bestiary.ui.beasts;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
