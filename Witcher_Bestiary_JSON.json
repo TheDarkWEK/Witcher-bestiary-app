@@ -285,7 +285,7 @@
 		"loot": "Greater Dazhbog Runestone",
 		"location": "Found in magical ruins",
 		"weakness": "Dimeritium Bomb, Northern Wind, Elementa Oil, and Aard",
-		"image": "fire.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/d/d0/Tw3_journal_fireelemental.png"
 	},
 
 	{
@@ -295,7 +295,7 @@
 		"loot": "Elemental Essence",
 		"location": "Skellige",
 		"weakness": "Dimeritium Bomb, and Elementa Oil",
-		"image": "ice.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/c/c6/Tw3_journal_iceelemental.png"
 	},
 
 	{
@@ -305,7 +305,7 @@
 		"loot": "Earth Elemental Trophy, Earth Elemental Mutagen, Clever Hood, Monster Claw, Powdered Monster Tissue, Monster Eye, and Fifth Essence",
 		"location": "Moldavie Residence",
 		"weakness": "Dimeritium Bomb, and Elementa Oil",
-		"image": "Therazane.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/9/97/Tw3_journal_therazane.png"
 	},
 
 	{
@@ -315,7 +315,7 @@
 		"loot": "Gargoyle Dust, Gargoyle Heart, Elemental Essence, Iron Ore, and Monster Heart",
 		"location": "Abandoned Ruins and Castles",
 		"weakness": "Dimeritium Bomb, Elementa Oil, and Quen",
-		"image": "gargo.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/b/be/Tw3_journal_gargoyle.png"
 	},
 
 	{
@@ -325,7 +325,7 @@
 		"loot": null,
 		"location": "Mont Crane Castle",
 		"weakness": "Dimeritium Bomb, and Elementa Oil",
-		"image": "moreau.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/0/05/Tw3_journal_moreaus_golem.png"
 	},
 
 	{
@@ -335,7 +335,7 @@
 		"loot": "Ekhidna Mutagen, Lock of Lamia Hair, Monster Brain, Monster Blood, Monster Bone, Monster Claw, Monster Ear, Monster Eye, Monster Heart, Monster LiverMonster Tongue, Monster Tooth, Sea Shell, and Water Essence",
 		"location": "Bodies of water and Shorelines",
 		"weakness": "Grapeshot, Hybrid Oil, Igni, and Aard",
-		"image": "ekhidna.jpg"
+		"image": "https://static.wikia.nocookie.net/witcher/images/b/b6/Ekhidna_monster.jpg"
 	},
 
 	{
@@ -345,7 +345,7 @@
 		"loot": "Harpy Egg, Harpy Talons, Harpy Feathers, Lesser Blue Mutagen, Monster Liver, and Raw Meat",
 		"location": "Highlands",
 		"weakness": "Grapeshot, Hybrid Oil, and Aard",
-		"image": "Harpy.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/d/d5/Tw3_journal_harpy.png"
 	},
 
 	{
@@ -355,7 +355,7 @@
 		"loot": null,
 		"location": "Novigrad",
 		"weakness": "Hybrid Oil, and Quen",
-		"image": "salma.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/a/ac/Tw3_journal_salma.png"
 	},
 
 	{
@@ -365,7 +365,7 @@
 		"loot": "Erynia Eye, Monster Blood, and Monster Feather",
 		"location": "Skellige",
 		"weakness": "Grapeshot, Hybrid Oil, and Aard",
-		"image": "Erynias.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/f/fd/Tw3_journal_erynia.png"
 	},
 
 	{
@@ -375,7 +375,7 @@
 		"loot": "Ekhidna Mutagen, Ekhidna Trophy, and Lock of Lamia Hair",
 		"location": "Spikeroog",
 		"weakness": "Grapeshot, Hybrid Oil, Igni, and Aard",
-		"image": "Melusine.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/3/35/Tw3_journal_melusine.png"
 	},
 
 	{
@@ -385,7 +385,7 @@
 		"loot": "Monster Tooth, Siren Vocal Cords, and Water Essence",
 		"location": "Coastal Regions throughout Velen and Novigrad, Skellige is also a major breeding ground.",
 		"weakness": "Grapeshot, Hybrid Oil, Igni, and Aard",
-		"image": "Siren.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/0/05/Tw3_journal_siren.png"
 	},
 
 	{
@@ -395,7 +395,7 @@
 		"loot": "Griffin's Egg, Griffin Feathers, Griffin Mutagen, Griffin Trophy, Infused Dust, Monster Brain, Monster Claw, Monster Eye, Monster Heart, and Raw Meat",
 		"location": "Ovenfurt, Skellige, Velen, and White Orchard",
 		"weakness": "Grapeshot, Hybrid Oil, and Aard",
-		"image": "Griffin.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/1/15/Tw3_journal_griffin.png"
 	},
 
 	{
@@ -405,7 +405,7 @@
 		"loot": "Arhgriffin Mutagen, Griffin's Egg, Griffin Feathers, Griffin Trophy, Monster Brain, Monster Tongue, and Zireael Armor",
 		"location": "Forest Outside Oxenfurt",
 		"weakness": "Grapeshot, Hybrid Oil, and Aard",
-		"image": "Opinicus.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/9/9d/Tw3_journal_archgriffin.png"
 	},
 
 	{
@@ -415,7 +415,7 @@
 		"loot": "Succubus Mutagen",
 		"location": "Try to live close to their \"prey\", near towns and villages. Some succubi inhabit cities.",
 		"weakness": "Hybrid Oil, and Quen",
-		"image": "Succubus.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/1/14/Tw3_journal_succubus.png"
 	},
 
 	{
@@ -425,7 +425,7 @@
 		"loot": "Arachas Eyes, Chitinous Shell, Arachas Venom, and Lesser Red Mutagen",
 		"location": null,
 		"weakness": "Golden Oriole, and Insectoid Oil",
-		"image": "arachasae.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/8/8a/Tw3_journal_arachas.png"
 	},
 
 	{
@@ -435,7 +435,7 @@
 		"loot": "Chitinous Shell, Lesser Blue Mutagen, Lesser Green Mutagen, Monster Blood, Monster Hair, Monster Heart, Monster Saliva, Monster Tooth, and Venom Extract",
 		"location": null,
 		"weakness": "Aard, Axii, and Insectoid Oil",
-		"image": "arachnomorphs.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/5/5f/Tw3_journal_arachnomorph.png"
 	},
 
 	{
@@ -445,7 +445,7 @@
 		"loot": "Arachas Eyes, Chitinous Shell, and Arachas Venom",
 		"location": "Novigrad, and Skellige",
 		"weakness": "Golden Oriole, and Insectoid Oil",
-		"image": "ArmoredAra.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/7/70/Tw3_journal_armoredarachas.png"
 	},
 
 	{
@@ -455,7 +455,7 @@
 		"loot": "Chitinous Shell, Endrega Armor Plates, and Lesser Red Mutagen",
 		"location": "Novigrad, Skellige, and Toussaint",
 		"weakness": "Golden Oriole, and Insectoid Oil",
-		"image": "drones.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/e/e8/Tw3_journal_endregadrone.png"
 	},
 
 	{
@@ -465,7 +465,7 @@
 		"loot": "Chitinous Shell, Endrega Armor Plates, Endrega Heart, Lesser Blue Mutagen, Lesser Green Mutagen, and Venom Extract",
 		"location": "Velen, and Skellige",
 		"weakness": "Golden Oriole, and Insectoid Oil",
-		"image": "warrior.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/c/c8/Tw3_journal_endregawarrior.png"
 	},
 
 	{
@@ -475,7 +475,7 @@
 		"loot": "Venom Extract, Endrega Embryo, Endrega Heart, Lesser Blue Mutagen, Lesser Green Mutagen, Chitinous Shell, and Monster Saliva",
 		"location": "Velen, and Skellige",
 		"weakness": "Golden Oriole, and Insectoid Oil",
-		"image": "worker.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/1/1b/Tw3_journal_endregaworker.png"
 	},
 
 	{
@@ -485,7 +485,7 @@
 		"loot": "Giant Centipede Discharge, Giant Centipede Mandible, and Monster Blood",
 		"location": "Toussaint",
 		"weakness": "Insectoid Oil, and Yrden",
-		"image": "GiantCentipede.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/d/de/Tw3_journal_scolopendromorph.png"
 	},
 
 	{
@@ -495,7 +495,7 @@
 		"loot": "Chitinous Shell, Arachas Eyes, Arachas Mutagen, Arachas Trophy, Arachas Venom, Rotting Flesh, and Mahakaman Trousers",
 		"location": null,
 		"weakness": "Golden Oriole, and Insectoid Oil",
-		"image": "Harrisi.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/c/c5/Tw3_journal_harrisi.png"
 	},
 
 	{
@@ -505,7 +505,7 @@
 		"loot": "Kikimore Discharge",
 		"location": "Toussaint",
 		"weakness": "Insectoid Oil, White Honey, and Igni",
-		"image": "kikiWa.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/5/5c/Tw3_journal_kikimore_warrior.png"
 	},
 
 	{
@@ -515,7 +515,7 @@
 		"loot": "Kikimore Discharge",
 		"location": "Toussaint",
 		"weakness": "Insectoid Oil, White Honey, and Igni",
-		"image": "kikiWo.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/8/80/Tw3_journal_kikimore_worker.png"
 	},
 
 	{
@@ -525,7 +525,7 @@
 		"loot": "Chitinous Shell, Giant Centipede Discharge, Giant Centipede Mandible, Monster Carapace, Monster Stomach, Red Mutagen, and Greater Red Mutagen",
 		"location": "Toussaint",
 		"weakness": "Insectoid Oil, and Yrden",
-		"image": "PaleWidow.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/1/15/Tw3_journal_pale_widow.png"
 	},
 
 	{
@@ -535,7 +535,7 @@
 		"loot": "Sulfur, Rotting Flesh, Monster Blood, Monster Bone, Monster Saliva, and Monster Brain",
 		"location": "Ddiddiwedht Desert",
 		"weakness": "Samum, Northern Wind, Dancing Star, and Grapeshot",
-		"image": "sandcrab.jpg"
+		"image": "https://static.wikia.nocookie.net/witcher/images/e/e0/Tw3_sandcrap_close_up.jpg"
 	},
 
 	{
@@ -545,7 +545,7 @@
 		"loot": "Arachas Eyes, Chitinous Shell, and Arachas Venom",
 		"location": "Novigrad, and Skellige",
 		"weakness": "Golden Oriole, and Insectoid Oil",
-		"image": "venochasae.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/6/67/Tw3_journal_venomousarachas.png"
 	},
 
 	{
@@ -555,7 +555,7 @@
 		"loot": "Water Hag Mutagen, Water Hag Tooth, and Water Hag Trophy",
 		"location": "Underwater cave off Kaer Trolde Harbor",
 		"weakness": "Northern Wind, Necrophage Oil, Quen, and Igni",
-		"image": "abaya.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/e/e3/Tw3_journal_abaya.png"
 	},
 
 	{
@@ -565,7 +565,7 @@
 		"loot": "Alghoul Bone Marrow, Alghoul Claw, and Alghoul Mutagen",
 		"location": "Battlefields and any location where a large number of corpses can be found in shallow graves or left out to rot.",
 		"weakness": "Necrophage Oil, and Axii",
-		"image": "alghoul.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/6/64/Tw3_journal_alghoul.png"
 	},
 
 	{
@@ -575,7 +575,7 @@
 		"loot": "Devourer's Blood, Necrophage Hide, Rotfiend Blood, Monster Brain, Monster Bone, Monster Heart, Monster Liver, Monster Saliva, Monster Tongue, and Monster Tooth",
 		"location": "With rotfiends, near corpses",
 		"weakness": "Necrophage Oil",
-		"image": "devourer.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/0/00/Tw3_devourer.png"
 	},
 
 	{
@@ -585,7 +585,7 @@
 		"loot": "Drowner Brain, Drowner Tongue, Monster Blood, Monster Heart, Monster Hair, Monster Saliva, Monster Tooth, and Water Essence",
 		"location": "Novigrad, Skellige, Toussaint, Velen, and White Orchard",
 		"weakness": "Necrophage Oil, and Igni",
-		"image": "drowner.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/0/09/Tw3_journal_drowner.png"
 	},
 
 	{
@@ -595,7 +595,7 @@
 		"loot": null,
 		"location": "Kaer Morhen Valley, Novigrad, Skellige, and Velen",
 		"weakness": null,
-		"image": "Drowdead.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/7/70/Bestiary_Drowned_Dead.png"
 	},
 
 	{
@@ -605,7 +605,7 @@
 		"loot": "Foglet Teeth, Foglet Mutagen, and Lesser Blue Mutagen.",
 		"location": "Isle of Mists, Kaer Morhen, and Velen",
 		"weakness": "Moon Dust, Necrophage Oil, and Quen",
-		"image": "foglet.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/a/a6/Tw3_journal_foglet.png/revision/latest?cb=20160510171637"
 	},
 
 	{
@@ -615,7 +615,7 @@
 		"loot": "Ghoul's Blood, Monster Blood, Monster Claw, Monster Eye, Monster Liver, Monster Saliva, Monster Tongue, Monster Tooth, and Venom Extract",
 		"location": "Anywhere near corpses",
 		"weakness": "Necrophage Oil",
-		"image": "ghoul.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/c/c9/Tw3_journal_ghoul.png"
 	},
 
 	{
@@ -625,7 +625,7 @@
 		"loot": "Grave Hag's Ear, and Grave Hag Mutagen",
 		"location": "Velen, and Skellige",
 		"weakness": "Black Blood, Necrophage Oil, Yrden, and Quen",
-		"image": "Grags.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/d/d0/Tw3_journal_gravehag.png"
 	},
 
 	{
@@ -635,7 +635,7 @@
 		"loot": "Foglet Teeth, Foglet Mutagen, Lesser Blue Mutagen, and Foglet Trophy",
 		"location": "Cave in Velen",
 		"weakness": "Moon Dust, Necrophage Oil, and Quen",
-		"image": "Ignituus.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/4/46/Tw3_journal_ignisfatuus.png"
 	},
 
 	{
@@ -645,7 +645,7 @@
 		"loot": "Grave Hag Trophy, Grave Hag Mutagen, Grave Hag's Ear, Monster Bone, Monster Claw, Monster Tongue, and Addan Deith",
 		"location": "Lindenvale",
 		"weakness": "Black Blood, Necrophage Oil, Yrden, and Quen",
-		"image": "Mourntart.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/1/1e/Tw3_journal_mourntart.png"
 	},
 
 	{
@@ -655,7 +655,7 @@
 		"loot": "Monster Saliva, Drowner Tongue, and Drowner Brain",
 		"location": "Swamps and riverbanks in Velen",
 		"weakness": "Necrophage Oil and Igni",
-		"image": "mucknixer.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/c/c1/Mucknixer.png"
 	},
 
 	{
@@ -665,7 +665,7 @@
 		"loot": "Rotfiend Blood, Necrophage Hide, Monster Brain, Monster Bone, Monster Heart, Monster Liver, Monster Saliva, Monster Tongue, and Monster Tooth",
 		"location": "Velen, White Orchard, Skellige, and Toussaint",
 		"weakness": "Necrophage Oil",
-		"image": "rotfiend.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/6/61/Tw3_journal_rotfiend.png"
 	},
 
 	{
@@ -675,7 +675,7 @@
 		"loot": null,
 		"location": "Toussaint",
 		"weakness": "Necrophage Oil",
-		"image": "scurvers.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/b/ba/Tw3_journal_graveir.png"
 	},
 
 	{
@@ -685,7 +685,7 @@
 		"loot": "Wight Ear, Wight Hair, Wight Saliva Gland, Wight Trophy, Fork, Disgusting Wight Key",
 		"location": "Toussaint",
 		"weakness": "Necrophage Oil, Igni, and Yrden",
-		"image": "Spotted Wight.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/f/ff/Tw3_journal_spotted_wight.png"
 	},
 
 	{
@@ -695,7 +695,7 @@
 		"loot": "Monster Saliva, Monster Tongue, Venom Extract, Water Essence, Water Hag Mutagen, Water Hag Tooth",
 		"location": "Velen, White Orchard, and Skellige",
 		"weakness": "Northern Wind, Necrophage Oil, Quen, and Igni",
-		"image": "WaterHag.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/3/36/Tw3_journal_waterhag.png"
 	},
 
 	{
@@ -705,7 +705,7 @@
 		"loot": "Monster Tongue, Wight Hair, Wight Ear, Greater Triglav Runestone, Green Mutagen",
 		"location": "Toussaint",
 		"weakness": "Necrophage Oil, and Axii",
-		"image": "Wights.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/a/a8/Tw3_journal_wicht.png"
 	},
 
 	{
@@ -715,7 +715,7 @@
 		"loot": "Infused Shards, Cyclop's Eye, Orens, and Greater Red Mutagen",
 		"location": "Land of a thousand Fables Cloud Giant's Castle",
 		"weakness": "Ogroid Oil, Igni, and Dancing Star",
-		"image": "CloudGiant.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/d/d6/Tw3_journal_cloud_giant.png"
 	},
 
 	{
@@ -725,7 +725,7 @@
 		"loot": "Cyclop's Eye, Old Bear Hide, Infused Shard, Monster Brain, Monster Blood, Monster Bone, Monster Ear, Monster Hair, Monster Hide, Monster Hear, Monster Liver,Monster Saliva, Monster Tongue, Monster Tooth, and Orens",
 		"location": "Kaer Morhen, Skellige, and Velen",
 		"weakness": "Ogroid Oil, Quen, and Axii",
-		"image": "Cyclopses.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/d/db/Tw3_journal_cyclops.png"
 	},
 
 	{
@@ -735,7 +735,7 @@
 		"loot": "Golyat Trophy, Dahlia, and Greater Red Mutagen",
 		"location": "Dulcinea Windmill in Toussaint",
 		"weakness": "Ogroid Oil, and Quen",
-		"image": "Golyat.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/9/9c/Tw3_journal_dagonet.png"
 	},
 
 	{
@@ -745,7 +745,7 @@
 		"loot": "Nekker Claw, Nekker Heart, Nekker Warrio's Liver, Nekker Warrior Mutagen, Nekker Warrior Trophy, Devine, Venom Extract",
 		"location": "Near the village of Larvik on Hindarsfjall",
 		"weakness": "Northern Wind and Ogroid Oil",
-		"image": "Hagubman.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/9/93/Tw3_journal_hagubman.png"
 	},
 
 	{
@@ -755,7 +755,7 @@
 		"loot": "Elemental Essence, Monster Brain, and Monster Eye",
 		"location": "Skellige",
 		"weakness": "Ogroid Oil and Quen",
-		"image": "IceGiant.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/c/ca/Tw3_journal_icegiant.png"
 	},
 
 	{
@@ -765,7 +765,7 @@
 		"loot": "Troll Hide, Troll Mutagen, and Elemental Essence",
 		"location": "Skellige",
 		"weakness": "Ogroid Oil and Quen",
-		"image": "icetroll.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/8/84/Tw3_journal_icetroll.png"
 	},
 
 	{
@@ -775,7 +775,7 @@
 		"loot": "Nekker Blood, Nekker Claw, Nekker Eyes, Nekker Heart, Lesser Blue Mutagen, and Lesser Green Mutagen",
 		"location": "Velen, White Orchard, Skellige, and Toussaint",
 		"weakness": "Northern Wind, and Ogroid Oil",
-		"image": "Nekker.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/a/a1/Tw3_journal_nekker.png"
 	},
 
 	{
@@ -785,7 +785,7 @@
 		"loot": "Cave Troll Liver, Troll Hide, Troll Mutagen, and Monster Heart",
 		"location": "Novigrad, Kaer Morhen Valley, Skellige, and Velen",
 		"weakness": "Ogroid Oil, and Quen",
-		"image": "RockTroll.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/6/69/Tw3_journal_rocktroll.png"
 	},
 
 	{
@@ -795,7 +795,7 @@
 		"loot": "Troll Hide, Troll Mutagen, and Cave Troll Trophy",
 		"location": "Cave near Blandare",
 		"weakness": "Ogroid Oil, and Quen",
-		"image": "wham.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/7/75/Tw3_journal_whamawham.png"
 	},
 
 	{
@@ -805,7 +805,7 @@
 		"loot": "Chort Hide, Raw Meat, and Chort Mutagen",
 		"location": "Velen, Skellige, and Kaer Morhen",
 		"weakness": "Devil's Puffball and Relict Oil",
-		"image": "chort.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/6/6a/Tw3_journal_chort.png"
 	},
 
 	{
@@ -815,7 +815,7 @@
 		"loot": null,
 		"location": "Velen, Crookback Bog, and Bald Mountain",
 		"weakness": "Relict Oil and Quen",
-		"image": "crones.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/1/15/Tw3_journal_crones.png"
 	},
 
 	{
@@ -825,7 +825,7 @@
 		"loot": "Doppler Mutagen",
 		"location": "Novigrad and Skellige",
 		"weakness": "Relict Oil",
-		"image": "doppler.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/d/d6/Tw3_journal_doppler.png"
 	},
 
 	{
@@ -835,7 +835,7 @@
 		"loot": "Fiend Mutagen, Fiend Trophy, Fiend's Eye, Fiend Dung, Fifth Essence, Lesser Blue Mutagen, Monster Bone, Monster Hair, and Raw Meat",
 		"location": "Velen and Skellige",
 		"weakness": "Samum, Devil's Puffball, and Relict Oil",
-		"image": "fiend.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/0/05/Tw3_journal_fiend.png"
 	},
 
 	{
@@ -845,7 +845,7 @@
 		"loot": null,
 		"location": null,
 		"weakness": null,
-		"image": "fugas.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/0/03/Tw3_journal_fugas.png"
 	},
 
 	{
@@ -855,7 +855,7 @@
 		"loot": null,
 		"location": null,
 		"weakness": null,
-		"image": "godling.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/1/1b/Tw3_journal_godlings.png"
 	},
 
 	{
@@ -865,7 +865,7 @@
 		"loot": "Grottore Trophy, Fen'aeth, Greather Blue Mutagen, Leshen Resin, Fiber, Monster Bone, and Hardened Timber",
 		"location": "Toussaint",
 		"weakness": "Dimeritium Bomb, Relict Oil, and Igni",
-		"image": "grottore.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/a/af/Tw3_journal_spriggan_mh.png"
 	},
 
 	{
@@ -875,7 +875,7 @@
 		"loot": "Chort Trophy, Chort Mutagen, Chort Hide, and Azure Wrath",
 		"location": "South of Lindenvale",
 		"weakness": "Devil's Puffball and Relict Oil",
-		"image": "Howler.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/3/39/Tw3_journal_howler.png"
 	},
 
 	{
@@ -885,7 +885,7 @@
 		"loot": "Doppler Mutagen and Doppler Trophy",
 		"location": "Novigrad",
 		"weakness": "Relict Oil",
-		"image": "imp.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/9/90/Tw3_journal_imp.png"
 	},
 
 	{
@@ -895,7 +895,7 @@
 		"loot": null,
 		"location": "near Loggers'Hut",
 		"weakness": "Dimeritium Bomb, Relict Oil, and Igni",
-		"image": "Kernun.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/4/43/Tw3_journal_kernun.png"
 	},
 
 	{
@@ -905,7 +905,7 @@
 		"loot": "Leshen Resin, Leshen Mutagen, Monster Bone,  Leshen Trophy, and Fiber",
 		"location": "Velen and Skellige",
 		"weakness": "Dimeritium Bomb, Relict Oil, and Igni",
-		"image": "leshen.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/3/39/Tw3_journal_leshen.png"
 	},
 
 	{
@@ -915,7 +915,7 @@
 		"loot": "Fiend's Eye, Fiend Dung, Fiend Mutagen, Rotting Flesh, Longclaw, and Fiend Trophy",
 		"location": "Boxholm",
 		"weakness": "Samum, Devil's Puffball, and Relict Oil",
-		"image": "morvudd.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/1/1b/Tw3_journal_morvudd.png"
 	},
 
 	{
@@ -925,7 +925,7 @@
 		"loot": null,
 		"location": "Toussaint and Mahakam",
 		"weakness": "Samum, Relict Oil, and Aard",
-		"image": "shaelmaar.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/6/61/Tw3_journal_sharley.png"
 	},
 
 	{
@@ -935,7 +935,7 @@
 		"loot": null,
 		"location": "Tourney Grounds",
 		"weakness": "Samum, Relict Oil, and Aard",
-		"image": "emperor.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/6/65/Tw3_journal_sharley_white.png"
 	},
 
 	{
@@ -945,7 +945,7 @@
 		"loot": null,
 		"location": "Toussaint",
 		"weakness": "Dimeritium Bomb, Relict Oil, and Igni",
-		"image": "spriggan.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/f/fe/Tw3_journal_spriggan.png"
 	},
 
 	{
@@ -955,7 +955,7 @@
 		"loot": null,
 		"location": "Velen",
 		"weakness": "Samum, Devil's Puffball, Relict Oil, and Igni",
-		"image": "sylvan.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/9/94/Tw3_journal_sylvan.png"
 	},
 
 	{
@@ -965,7 +965,7 @@
 		"loot": "The Caretaker's Spade",
 		"location": "von Everec Estate",
 		"weakness": "Relict Oil and Quen",
-		"image": "caretaker.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/3/38/Tw3_journal_caretaker.png"
 	},
 
 	{
@@ -975,7 +975,7 @@
 		"loot": "Shaelmaar Trophy, Ami, Shaelmaar Dust, Shaelmaar Hair, Monster Carapace, and Greater Blue Mutagen",
 		"location": "Tufo, Toussaint",
 		"weakness": "Samum, Relict Oil, and Aard",
-		"image": "tufo.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/e/ea/Tw3_journal_sharley_mh.png"
 	},
 
 	{
@@ -985,7 +985,7 @@
 		"loot": "Cookies, Gingerbread, Gingerbread Man, Magic Dust, Poisoned Apple, Bone Ashes, and Grave Hag's Ear",
 		"location": "Land of a Thousand Fables",
 		"weakness": "Relicts Oils",
-		"image": "wickedwitch.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/1/18/Tw3_journal_fairy_witch.png"
 	},
 
 	{
@@ -995,7 +995,7 @@
 		"loot": "Leshen Resin, Ancient Leshen Mutagen, and Leshen Trophy",
 		"location": "Fayrlund",
 		"weakness": "Dimeritium Bomb, Relict Oil, and Igni",
-		"image": "woodland.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/b/be/Tw3_journal_woodlandspirit.png"
 	},
 
 	{
@@ -1005,7 +1005,7 @@
 		"loot": "Barghest Essence, Infused Dust, and Lesser Blue Mutagen",
 		"location": "Toussaint",
 		"weakness": "Moon Dust, Specter Oil, Axii, and Yrden",
-		"image": "barghest.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/8/8e/Tw3_journal_barghest.png"
 	},
 
 	{
@@ -1015,7 +1015,7 @@
 		"loot": "Essence of Wraith, Specter Dust, Infused Dust, and Lunar Shards",
 		"location": "Toussaint",
 		"weakness": "Specter Oil",
-		"image": "banshe.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/9/90/Tw3_journal_banshee.png"
 	},
 
 	{
@@ -1025,7 +1025,7 @@
 		"loot": null,
 		"location": "Toussaint",
 		"weakness": "Specter Oil",
-		"image": "daphne.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/d/d4/Tw3_journal_Daphne%27s_Wraith.png"
 	},
 
 	{
@@ -1035,7 +1035,7 @@
 		"loot": "Emerald Dust, Essence of Wraith, Light Essence, Specter Dust, Noonwraith Mutagen, Noonwraith Trophy, Amethyst Dust, and Infused Dust",
 		"location": "Hovel",
 		"weakness": "Moon Dust, Specter Oil, and Yrden",
-		"image": "devil.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/6/65/Tw3_journal_devilbythewell.png"
 	},
 
 	{
@@ -1045,7 +1045,7 @@
 		"loot": null,
 		"location": "von Everec Estate",
 		"weakness": "Specter Oil and Blizzard",
-		"image": "Ethereal.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/8/8e/Tw3_journal_ethereal.png"
 	},
 
 	{
@@ -1055,7 +1055,7 @@
 		"loot": "Crystalized Essence, Emerald Dust, Specter Dust, Essence of Wraith, and Lesser Veles Runestone",
 		"location": "Skellige and Gaunter's World",
 		"weakness": "Moon Dust, Specter Oil, and Igni Sign",
-		"image": "hym.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/a/ab/Tw3_journal_hym.png"
 	},
 
 	{
@@ -1065,7 +1065,7 @@
 		"loot": "Dark Essence, Nightwraith Hair, Nightwraith Mutagen, Nightwraith Trophy, Forgotten Vran Sword",
 		"location": "Midcopse",
 		"weakness": "Moon Dust, Specter Oil, and Yrden",
-		"image": "jenny.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/9/93/Tw3_journal_jennyothewoods.png"
 	},
 
 	{
@@ -1075,7 +1075,7 @@
 		"loot": "Lunar Shards, Infused Dust, Specter Dust, and Essence of Wraith",
 		"location": "Land of a Thousand Fables",
 		"weakness": "Specter Oil",
-		"image": "Longlocks.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/9/9f/Tw3_journal_rapunzel.png"
 	},
 
 	{
@@ -1085,7 +1085,7 @@
 		"loot": "Nightwraith Mutagen, Specter Dust, Nightwraith Hair, Infused Dust, Dark Essence, and Lunar Shards",
 		"location": "Velen",
 		"weakness": "Moon Dust, Specter Oil, and Yrden",
-		"image": "nightwrath.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/c/cc/Tw3_journal_nightwraith.png"
 	},
 
 	{
@@ -1095,7 +1095,7 @@
 		"loot": "Noonwraith Mutagen, Noonwraith Trophy, Light Essence, and Specter Dust",
 		"location": "Velen and White Orchard",
 		"weakness": "Moon Dust, Specter Oil, and Yrden",
-		"image": "noon.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/5/5e/Tw3_journal_noonwraith.png"
 	},
 
 	{
@@ -1105,7 +1105,7 @@
 		"loot": "Specter Dust, Wraith Mutagen, Essence of Wraith, Wraith Trophy, and Ashrune",
 		"location": "Eldberg Lighthouse",
 		"weakness": "Moon Dust, Specter Oil, Yrden, and Quen",
-		"image": "penitent.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/e/e0/Tw3_journal_penitent.png"
 	},
 
 	{
@@ -1115,7 +1115,7 @@
 		"loot": null,
 		"location": "Fyke Isle and Velen",
 		"weakness": "Specter Oil and Yrden",
-		"image": "plague.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/b/b2/Tw3_journal_plaguemaiden.png"
 	},
 
 	{
@@ -1125,7 +1125,7 @@
 		"loot": "Umbra Trophy",
 		"location": "Toussaint",
 		"weakness": "Specter Oils",
-		"image": "umbra.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/1/13/Tw3_journal_nightmare_horse.png"
 	},
 
 	{
@@ -1135,7 +1135,7 @@
 		"loot": "Emerald Dust, Amethyst Dust, Essence of Wraith, Noonwraith Mutagen, and Noonwraith Trophy",
 		"location": "Fields south of Farcorners",
 		"weakness": "Moon Dust, Specter Oilm and Yrden",
-		"image": "lady.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/c/cd/Tw3_journal_thewhitelady.png"
 	},
 
 	{
@@ -1145,7 +1145,7 @@
 		"loot": null,
 		"location": "Von Everec Estate",
 		"weakness": "Specter Oil and Yrden",
-		"image": "paint.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/2/26/Tw3_journal_wraith_from_the_painting.png"
 	},
 
 	{
@@ -1155,7 +1155,7 @@
 		"loot": "Specter Dust, Emerald Dust, Amethyst Dust, Infused Dust, Wraith Mutagen, and Essence of Wraith",
 		"location": "Velen, WHite Orchard, Skellige, and Toussaint",
 		"weakness": "Moon Dust, Specter Oil, Yrden, and Quen",
-		"image": "wraith.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/c/c6/Tw3_journal_wraith.png"
 	},
 
 	{
@@ -1165,7 +1165,7 @@
 		"loot": "Monster Ear, Monster Brain, Vampire Fang, Vampire Saliva, Vampire Blood, Lesser Green Mutagen, and Garkain Trophy",
 		"location": "Blood Simple",
 		"weakness": "Moon Dust, Samum, Vampire Oil, and Black Blood",
-		"image": "alpha.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/d/d0/Tw3_journal_garkain_mh.png"
 	},
 
 	{
@@ -1175,7 +1175,7 @@
 		"loot": null,
 		"location": "Toussaint",
 		"weakness": "Yrden, Vampire Oil, Moon Dust, and Black Blood",
-		"image": "alp.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/a/a9/Tw3_journal_alp.png"
 	},
 
 	{
@@ -1185,7 +1185,7 @@
 		"loot": null,
 		"location": "Toussaint",
 		"weakness": "Moon Dust, Black Blood, Vampire Oil, and Yrden",
-		"image": "bruxae.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/d/d1/Tw3_journal_bruxa.png"
 	},
 
 	{
@@ -1195,17 +1195,17 @@
 		"loot": null,
 		"location": "Toussaint",
 		"weakness": null,
-		"image": "eretein.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/f/f6/Tw3_journal_dettlaff.png"
 	},
 
 	{
-		"name": "Ekkimaras",
+		"name": "Ekimmaras",
 		"type": "Vampires",
 		"desc": "Like other vampires, ekimmaras are not, despite what village gossips might say, undead humans. They are instead post-Conjunction monsters who have no particular feelings about garlic, holy water or religious symbols. Unlike their portrayals in ballads and legends, they look nothing like handsome, pale aristocrats with charming eastern accents, though, like katakans and nekurats, they do bear a strong resemblance to overgrown bats. They also do not suck blood from the necks of virgins with a delicate, kiss-like bite – they tear them to shreds using long, sharp claws and then slurp the splattered blood off the ground. Ekimmaras are unusually cruel and exceptionally swift. They are able to quickly land blow after blow capable of smashing even the best Mahakaman-made armor into tiny shards. They should be fought with a silver sword, remembering that they can regenerate back health over time. One should thus never attempt to tire them out or, gods forbid, wait for it to bleed to death. Instead, cut then down as quickly as possible and, if possible, burn the body to ash and scatter it to the four winds.",
 		"loot": "Ekimmara Hide, Ekimmara Mutagen, Lesser Blue Mutagen, Monster Ear, Monster Eye, Monster Hair, Monster Tongue, Vampire Fang, and Vampire Saliva",
 		"location": "Novigrad and Velen",
 		"weakness": "Devil's Puffball, Vampire Oil, and Igni",
-		"image": "ekimma.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/d/d8/Tw3_journal_ekimmara.png"
 	},
 
 	{
@@ -1215,7 +1215,7 @@
 		"loot": "Lesser Red Mutagen, Monster Eye, Monster Hair, and Vampire Blood",
 		"location": "Toussaint",
 		"weakness": "Vampire Oil, and Black Blood",
-		"image": "fleder.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/c/c3/Tw3_journal_fleder.png"
 	},
 
 	{
@@ -1225,7 +1225,7 @@
 		"loot": "Katakan Mutagen, Katakan Trophy, Lesser Blue Mutagen, Monster Hide, Monster Ear, Monster Bone, Vampire Saliva, Deargdeith, Key to Katakan's Hideout",
 		"location": "Oxenfurt",
 		"weakness": "Moon Dust, Devil's Puffball, Vampire Oil, Yrden, and Igni",
-		"image": "gael.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/5/58/Tw3_journal_gael.png"
 	},
 
 	{
@@ -1235,7 +1235,7 @@
 		"loot": null,
 		"location": "Toussaint",
 		"weakness": "Moon Dust, Samum, Vampire Oil, and Black Blood",
-		"image": "garkain.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/b/bb/Tw3_journal_garkain.png"
 	},
 
 	{
@@ -1245,7 +1245,7 @@
 		"loot": null,
 		"location": "Novigrad and Toussaint",
 		"weakness": "Vampire Oil and Igni",
-		"image": "higher.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/2/20/Tw3_journal_highervampire.png"
 	},
 
 	{
@@ -1255,7 +1255,7 @@
 		"loot": "Monster Heart, Monster Bone, Vampire Fang, Vampire Saliva, Lesser Blue Mutagen, and Katakan Mutagen",
 		"location": "Novigrad, Oxenfurt, and Toussaint",
 		"weakness": "Moon Dust, Devil's Puffball, Vampire Oil, Yrden, and Igni",
-		"image": "katakan.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/c/cd/Tw3_journal_katakan.png"
 	},
 
 	{
@@ -1265,7 +1265,7 @@
 		"loot": "Protofleder Mutagen, Monster Blood, Monster Brain, Monster Eye, Monster Heart, Vampire Fang, and Vampire Saliva",
 		"location": "only in Hen Gàidh cave in Toussaint",
 		"weakness": "Vampire Oil and Black Blood",
-		"image": "Protofleder.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/c/c8/Tw3_journal_protofleder.png"
 	},
 
 	{
@@ -1275,7 +1275,7 @@
 		"loot": "Ekimmara Mutagen, Ekimmara Hide, Ekimmara Trophy, and Bloed Aedd",
 		"location": "Elven ruins beneath Byways",
 		"weakness": "Devil's Puffball, Vampire Oil, and Igni",
-		"image": "Sarasti.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/1/16/Tw3_journal_sarasti.png"
 	},
 
 	{
@@ -1285,7 +1285,7 @@
 		"loot": "Monster Eye, Monster Heart, Vampire Fang, Vampire Saliva, Vampire Blood, and Greater Blue Mutagen",
 		"location": "Corvo Bianco",
 		"weakness": "Moon Dust, Black Blood, Vampire Oil, and Yrden",
-		"image": "Bianco.png"
+		"image": "https://static.wikia.nocookie.net/witcher/images/3/34/Tw3_journal_bruxa_mh.png"
 	}
 
 ]}
