@@ -1,17 +1,17 @@
-package com.example.thewitcher3bestiary.ui.beasts;
+package com.example.thewitcher3bestiary.ui.Elementa;
 
 import android.os.Bundle;
+
+import androidx.annotation.NonNull;
+import androidx.fragment.app.Fragment;
+
+import android.renderscript.ScriptGroup;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
 
-import androidx.annotation.NonNull;
-import androidx.fragment.app.Fragment;
-
 import com.example.thewitcher3bestiary.R;
-
-import com.example.thewitcher3bestiary.databinding.FragmentBeastsBinding;
 import com.example.thewitcher3bestiary.model.Adapter;
 import com.example.thewitcher3bestiary.model.ObjectBeast;
 import com.example.thewitcher3bestiary.model.Response;
@@ -27,14 +27,14 @@ import retrofit2.Callback;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-public class BeastsFragment extends Fragment {
+public class ElementaFragment extends Fragment {
 
-    private FragmentBeastsBinding binding;
+    private ScriptGroup.Binding binding;
     private Adapter adapter;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        View root = inflater.inflate(R.layout.fragment_beasts, container, false);
+        View root = inflater.inflate(R.layout.fragment_elementa, container, false);
         ListView listView = root.findViewById(R.id.listView);
         adapter = new Adapter(getContext(), new ArrayList<>());
         listView.setAdapter(adapter);
@@ -65,7 +65,7 @@ public class BeastsFragment extends Fragment {
                     List<ObjectBeast> beasts = response.body().getBests();
                     List<ObjectBeast> filteredBeasts = new ArrayList<>();
                     for (ObjectBeast beast : beasts) {
-                        if ("Beasts".equals(beast.getType())) {
+                        if ("Elementa".equals(beast.getType())) {
                             filteredBeasts.add(beast);
                         }
                     }

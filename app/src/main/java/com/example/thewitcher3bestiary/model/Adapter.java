@@ -1,6 +1,7 @@
 package com.example.thewitcher3bestiary.model;
 
 import android.content.Context;
+import android.text.method.ScrollingMovementMethod;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -48,13 +49,14 @@ public class Adapter extends BaseAdapter {
         TextView loot = convertView.findViewById(R.id.loot);
         TextView weakness = convertView.findViewById(R.id.weakness);
         ImageView image = convertView.findViewById(R.id.image);
-        EditText desc = convertView.findViewById(R.id.desc);
+        TextView desc = convertView.findViewById(R.id.desc);
 
         name.setText(beast.getName());
         location.setText(beast.getLocation());
         loot.setText(beast.getLoot());
         weakness.setText(beast.getWeakness());
         desc.setText(beast.getDesc());
+        desc.setMovementMethod(ScrollingMovementMethod.getInstance());
         Picasso.get().load(beast.getImage()).into(image);
         return convertView;
     }

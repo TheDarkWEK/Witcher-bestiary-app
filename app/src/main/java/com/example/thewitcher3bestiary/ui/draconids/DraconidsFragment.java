@@ -1,4 +1,4 @@
-package com.example.thewitcher3bestiary.ui.beasts;
+package com.example.thewitcher3bestiary.ui.draconids;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,8 +10,6 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 
 import com.example.thewitcher3bestiary.R;
-
-import com.example.thewitcher3bestiary.databinding.FragmentBeastsBinding;
 import com.example.thewitcher3bestiary.model.Adapter;
 import com.example.thewitcher3bestiary.model.ObjectBeast;
 import com.example.thewitcher3bestiary.model.Response;
@@ -27,14 +25,15 @@ import retrofit2.Callback;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-public class BeastsFragment extends Fragment {
+public class DraconidsFragment extends Fragment {
 
-    private FragmentBeastsBinding binding;
+    private com.example.thewitcher3bestiary.databinding.FragmentBeastsBinding binding;
     private Adapter adapter;
+
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        View root = inflater.inflate(R.layout.fragment_beasts, container, false);
+        View root = inflater.inflate(R.layout.fragment_cursedones, container, false);
         ListView listView = root.findViewById(R.id.listView);
         adapter = new Adapter(getContext(), new ArrayList<>());
         listView.setAdapter(adapter);
@@ -65,7 +64,7 @@ public class BeastsFragment extends Fragment {
                     List<ObjectBeast> beasts = response.body().getBests();
                     List<ObjectBeast> filteredBeasts = new ArrayList<>();
                     for (ObjectBeast beast : beasts) {
-                        if ("Beasts".equals(beast.getType())) {
+                        if ("Draconids".equals(beast.getType())) {
                             filteredBeasts.add(beast);
                         }
                     }
@@ -79,7 +78,6 @@ public class BeastsFragment extends Fragment {
             }
         });
     }
-
 
     @Override
     public void onDestroyView() {

@@ -13,13 +13,20 @@
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:name="com.example.thewitcher3bestiary.ui.gallery.GalleryFragment"
+        android:name="com.example.thewitcher3bestiary.ui.cursedOnes.CursedOnesFragment"
         android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        tools:layout="@layout/fragment_cursedones" />
 
     <fragment
         android:id="@+id/nav_slideshow"
-        android:name="com.example.thewitcher3bestiary.ui.slideshow.SlideshowFragment"
+        android:name="com.example.thewitcher3bestiary.ui.draconids.DraconidsFragment"
         android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_draconids" />
+
+    <fragment
+        android:id="@+id/nav_elementa"
+        android:name="com.example.thewitcher3bestiary.ui.Elementa.ElementaFragment"
+        android:label="@string/elementa"
+        tools:layout="@layout/fragment_elementa" />
+
 </navigation>
