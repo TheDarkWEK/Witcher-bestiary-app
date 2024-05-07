@@ -26,15 +26,17 @@
             android:id="@+id/nav_hybrids"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Hybrids" />
-        <!--
+
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/nav_insectoids"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Insectoids" />
+
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/nav_necrohages"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Necrophages" />
+        <!--
         <item
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_menu_slideshow"

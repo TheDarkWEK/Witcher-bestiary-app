@@ -29,4 +29,22 @@
         android:label="@string/elementa"
         tools:layout="@layout/fragment_elementa" />
 
+    <fragment
+        android:id="@+id/nav_hybrids"
+        android:name="com.example.thewitcher3bestiary.ui.Hybrids.HybridsFragment"
+        android:label="@string/elementa"
+        tools:layout="@layout/fragment_hybrids" />
+
+    <fragment
+        android:id="@+id/nav_insectoids"
+        android:name="com.example.thewitcher3bestiary.ui.Insectoids.InsectoidsFragment"
+        android:label="@string/elementa"
+        tools:layout="@layout/fragment_insectoids" />
+
+    <fragment
+        android:id="@+id/nav_necrohages"
+        android:name="com.example.thewitcher3bestiary.ui.Necrophages.NecrophagesFragment"
+        android:label="@string/elementa"
+        tools:layout="@layout/fragment_necrophages" />
+
 </navigation>
