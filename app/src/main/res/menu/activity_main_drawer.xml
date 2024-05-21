@@ -6,55 +6,55 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@drawable/beasts"
             android:title="Beasts" />
         <item
             android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/cursedones"
             android:title="Cursed Ones" />
         <item
             android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/draconids"
             android:title="Draconids" />
 
         <item
             android:id="@+id/nav_elementa"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/elementa"
             android:title="Elementa" />
 
         <item
             android:id="@+id/nav_hybrids"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/hubryds"
             android:title="Hybrids" />
 
         <item
             android:id="@+id/nav_insectoids"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/insectoids"
             android:title="Insectoids" />
 
         <item
             android:id="@+id/nav_necrohages"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/necrophage"
             android:title="Necrophages" />
 
         <item
             android:id="@+id/nav_ogroids"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/ogroids"
             android:title="Ogroids" />
 
         <item
             android:id="@+id/nav_relicts"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/relicts"
             android:title="Relicts" />
 
         <item
             android:id="@+id/nav_Specters"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/specters"
             android:title="Specters" />
 
        <item
            android:id="@+id/nav_vampires"
-           android:icon="@drawable/ic_menu_slideshow"
+           android:icon="@drawable/vampires"
            android:title="Vampires" />
 
 

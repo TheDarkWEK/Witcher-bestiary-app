@@ -52,9 +52,9 @@ public class Adapter extends BaseAdapter {
         TextView desc = convertView.findViewById(R.id.desc);
 
         name.setText(beast.getName());
-        location.setText(beast.getLocation());
-        loot.setText(beast.getLoot());
-        weakness.setText(beast.getWeakness());
+        location.setText("Location: " + beast.getLocation());
+        loot.setText("Loot: " + beast.getLoot());
+        weakness.setText("Weakness: " + beast.getWeakness());
         desc.setText(beast.getDesc());
         desc.setMovementMethod(ScrollingMovementMethod.getInstance());
         Picasso.get().load(beast.getImage()).into(image);
