@@ -47,4 +47,28 @@
         android:label="@string/elementa"
         tools:layout="@layout/fragment_necrophages" />
 
+    <fragment
+        android:id="@+id/nav_ogroids"
+        android:name="com.example.thewitcher3bestiary.ui.Ogroids.OgroidsFragment"
+        android:label="@string/elementa"
+        tools:layout="@layout/fragment_ogroids" />
+
+    <fragment
+        android:id="@+id/nav_relicts"
+        android:name="com.example.thewitcher3bestiary.ui.Relicts.RelictsFragment"
+        android:label="@string/elementa"
+        tools:layout="@layout/fragment_relicts" />
+
+    <fragment
+        android:id="@+id/nav_Specters"
+        android:name="com.example.thewitcher3bestiary.ui.Specters.SpectersFragment"
+        android:label="@string/elementa"
+        tools:layout="@layout/fragment_specters" />
+
+    <fragment
+        android:id="@+id/nav_vampires"
+        android:name="com.example.thewitcher3bestiary.ui.Vampires.VampiresFragment"
+        android:label="@string/elementa"
+        tools:layout="@layout/fragment_vampires" />
+
 </navigation>

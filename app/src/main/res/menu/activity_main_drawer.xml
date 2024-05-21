@@ -36,24 +36,28 @@
             android:id="@+id/nav_necrohages"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Necrophages" />
-        <!--
+
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/nav_ogroids"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Ogroids" />
+
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/nav_relicts"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Relicts" />
+
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/nav_Specters"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Specters" />
-        <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="Vampires" />
 
--->
+       <item
+           android:id="@+id/nav_vampires"
+           android:icon="@drawable/ic_menu_slideshow"
+           android:title="Vampires" />
+
+
+
     </group>
 </menu>

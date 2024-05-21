@@ -1,17 +1,18 @@
-package com.example.thewitcher3bestiary.ui.cursedOnes;
+package com.example.thewitcher3bestiary.ui.Vampires;
 
 import android.os.Bundle;
+
+import androidx.annotation.NonNull;
+import androidx.fragment.app.Fragment;
+
+import android.renderscript.ScriptGroup;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
 
-import androidx.annotation.NonNull;
-import androidx.fragment.app.Fragment;
-
 import com.example.thewitcher3bestiary.R;
-
-import com.example.thewitcher3bestiary.databinding.FragmentBeastsBinding;
+import com.example.thewitcher3bestiary.databinding.FragmentVampiresBinding;
 import com.example.thewitcher3bestiary.model.Adapter;
 import com.example.thewitcher3bestiary.model.ObjectBeast;
 import com.example.thewitcher3bestiary.model.Response;
@@ -27,14 +28,14 @@ import retrofit2.Callback;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-public class CursedOnesFragment extends Fragment {
+public class VampiresFragment extends Fragment {
 
+    private FragmentVampiresBinding binding;
     private Adapter adapter;
-    private FragmentBeastsBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        View root = inflater.inflate(R.layout.fragment_cursedones, container, false);
+        View root = inflater.inflate(R.layout.fragment_necrophages, container, false);
         ListView listView = root.findViewById(R.id.listView);
         adapter = new Adapter(getContext(), new ArrayList<>());
         listView.setAdapter(adapter);
@@ -65,7 +66,7 @@ public class CursedOnesFragment extends Fragment {
                     List<ObjectBeast> beasts = response.body().getBests();
                     List<ObjectBeast> filteredBeasts = new ArrayList<>();
                     for (ObjectBeast beast : beasts) {
-                        if ("CursedOnes".equals(beast.getType())) {
+                        if ("Vampires".equals(beast.getType())) {
                             filteredBeasts.add(beast);
                         }
                     }
@@ -79,12 +80,4 @@ public class CursedOnesFragment extends Fragment {
             }
         });
     }
-
-    @Override
-    public void onDestroyView() {
-        super.onDestroyView();
-        binding = null;
-    }
-
-
 }
